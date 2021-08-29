@@ -1,0 +1,2 @@
+One Hot Encoder is basically work when you apply some model on your data and if their is some parmater or in a text formet,
+And you want to change the text into binary number than you can used one hot binary Encoder
